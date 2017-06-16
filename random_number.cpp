@@ -14,7 +14,7 @@ using namespace std;
  	int s = 0;
  	int z = 20;
  	int f = z;
- 	int w = 334;
+ 	int w = 335;
  	int p;
  	int a = rand()%20;
     
